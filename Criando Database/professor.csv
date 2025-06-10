@@ -1,0 +1,151 @@
+ID_Professor;Nome_Completo;Data_Nascimento;Idade;Sexo;Telefone;Endereço;Bairro;Cidade;UF;Email;Status
+1;Joaquim Barros;1971-03-06;53;M;(11) 95506-5012;Avenida Favela Ana Sophia da Costa;Carrão;São Paulo;SP;joaquim.barros@ig.com.br;Ativo
+2;Joaquim Fernandes;1968-06-26;56;M;(11) 94582-4811;Rua Viaduto Ramos;Tatuapé;São Paulo;SP;joaquim719@bol.com.br;Ativo
+3;Ayla Pacheco;1970-04-23;54;F;(11) 93615-7924;Travessa Campo Antony Marques;Jardim Anália Franco;São Paulo;SP;ayla.pacheco@gmail.com;Ativo
+4;Ana Laura Araújo;1987-05-01;37;F;(11) 95333-1711;Alameda Colônia de Barbosa;Tatuapé;São Paulo;SP;aaraújo@outlook.com;Ativo
+5;Davi Miguel Rocha;1982-11-26;42;M;(11) 94733-5741;Rua Jardim de Cardoso;Itaquera;São Paulo;SP;drocha@uol.com.br;Ativo
+6;Sofia da Costa;2003-11-15;21;F;(11) 95374-2169;Avenida Feira Freitas;Tatuapé;São Paulo;SP;sda costa@gmail.com;Inativo
+7;Diego Araújo;1969-07-06;55;M;(11) 91916-4752;Rua Setor Ana Julia Pimenta;Mooca;São Paulo;SP;daraújo@outlook.com;Ativo
+8;Yasmin Peixoto;2006-07-21;18;F;(11) 98517-3340;Travessa Rua de Albuquerque;Carrão;São Paulo;SP;yasmin552@hotmail.com;Ativo
+9;Anna Liz Aragão;1989-10-21;35;F;(11) 93266-9348;Alameda Lagoa de Ribeiro;Brás;São Paulo;SP;anna lizaragão@outlook.com;Ativo
+10;Ana Sophia Araújo;1959-11-25;65;F;(11) 97304-7252;Alameda Jardim Camargo;Tatuapé;São Paulo;SP;ana sophia.araújo@hotmail.com;Ativo
+11;Maria Peixoto;2001-07-25;23;F;(11) 96573-2827;Travessa Sítio de Cassiano;Penha;São Paulo;SP;mpeixoto@outlook.com;Inativo
+12;Brayan da Cruz;1968-11-04;56;M;(11) 95889-9317;Avenida Favela de Silva;Carrão;São Paulo;SP;brayan.da cruz@hotmail.com;Ativo
+13;Brenda Correia;1972-07-31;52;F;(11) 96947-6038;Avenida Vereda de da Luz;Belém;São Paulo;SP;brenda88@ig.com.br;Ativo
+14;Apollo Rocha;1981-03-12;43;M;(11) 98787-3705;Travessa Avenida Francisco Porto;Tatuapé;São Paulo;SP;apollorocha@bol.com.br;Ativo
+15;Lara Azevedo;1976-11-09;48;F;(11) 97118-8177;Alameda Area André Farias;Brás;São Paulo;SP;laraazevedo@gmail.com;Ativo
+16;Otávio Pacheco;1995-04-12;29;M;(11) 91964-4750;Rua Jardim de Castro;Belém;São Paulo;SP;opacheco@outlook.com;Ativo
+17;Ravi Nascimento;1993-09-10;31;M;(11) 98744-4981;Alameda Praça de Novais;Penha;São Paulo;SP;rnascimento@outlook.com;Ativo
+18;Maria Luísa Ramos;1954-12-03;70;F;(11) 92612-1993;Alameda Vila Cassiano;Mooca;São Paulo;SP;maria luísaramos@terra.com.br;Ativo
+19;Carlos Eduardo da Cruz;1983-04-29;41;M;(11) 95563-8579;Avenida Trecho Juan Lopes;Brás;São Paulo;SP;carlos eduardo.da cruz@uol.com.br;Ativo
+20;Arthur Ribeiro;1961-03-01;63;M;(11) 94872-3724;Alameda Núcleo Bruno Fogaça;São Mateus;São Paulo;SP;arthurribeiro@gmail.com;Ativo
+21;Elisa Mendonça;1965-07-17;59;F;(11) 95673-7930;Alameda Viaduto Caldeira;Carrão;São Paulo;SP;elisa.mendonça@gmail.com;Ativo
+22;Cauã Montenegro;1973-02-25;51;M;(11) 98811-9238;Avenida Pátio de Pinto;Belém;São Paulo;SP;cauã.montenegro@bol.com.br;Ativo
+23;João Vitor Correia;1994-02-17;30;M;(11) 95033-1651;Rua Esplanada Cavalcanti;Penha;São Paulo;SP;jcorreia@bol.com.br;Ativo
+24;Fernanda Sá;2001-02-14;23;F;(11) 97484-3144;Travessa Estação Sousa;São Mateus;São Paulo;SP;fernanda.sá@hotmail.com;Ativo
+25;Brayan Sá;2003-05-29;21;M;(11) 93170-6718;Rua Viaduto Theo da Mata;Itaquera;São Paulo;SP;bsá@gmail.com;Ativo
+26;Miguel Araújo;1962-11-05;62;M;(11) 95905-2697;Avenida Colônia de Garcia;Jardim Anália Franco;São Paulo;SP;maraújo@ig.com.br;Ativo
+27;Vitor Gabriel Garcia;2000-08-19;24;M;(11) 94335-5325;Alameda Fazenda Murilo Marques;Jardim Anália Franco;São Paulo;SP;vgarcia@outlook.com;Ativo
+28;Maria Nascimento;1972-12-09;52;F;(11) 95291-3647;Alameda Fazenda Alves;Tatuapé;São Paulo;SP;maria.nascimento@ig.com.br;Inativo
+29;Ravi Rocha;1989-05-22;35;M;(11) 97049-3426;Alameda Loteamento Agatha Azevedo;Carrão;São Paulo;SP;ravi.rocha@outlook.com;Ativo
+30;Diego Albuquerque;2005-08-27;19;M;(11) 92684-6794;Alameda Morro Nicole Guerra;Vila Formosa;São Paulo;SP;diegoalbuquerque@gmail.com;Ativo
+31;João Lucas Barros;1990-06-04;34;M;(11) 96442-7745;Avenida Loteamento de Alves;Jardim Anália Franco;São Paulo;SP;joão lucas.barros@gmail.com;Ativo
+32;Otávio Mendonça;1960-07-09;64;M;(11) 96728-6000;Avenida Estação Vinícius Andrade;Itaquera;São Paulo;SP;omendonça@gmail.com;Ativo
+33;Ana Laura Peixoto;1960-02-26;64;F;(11) 99346-7548;Travessa Morro Ana Sophia Lopes;Belém;São Paulo;SP;ana laura.peixoto@outlook.com;Ativo
+34;Ana Laura Pinto;1986-07-15;38;F;(11) 96139-8149;Rua Condomínio de Gomes;Penha;São Paulo;SP;ana laura46@ig.com.br;Ativo
+35;Luiz Miguel Novais;2002-01-30;22;M;(11) 92146-6409;Travessa Jardim Aparecida;Brás;São Paulo;SP;luiz miguel317@ig.com.br;Ativo
+36;Ana Luiza Nascimento;1991-12-22;33;F;(11) 94143-7888;Alameda Rua Nascimento;Carrão;São Paulo;SP;ana luiza.nascimento@bol.com.br;Ativo
+37;Mateus Montenegro;1990-10-24;34;M;(11) 96279-8618;Alameda Viaduto de Costa;São Mateus;São Paulo;SP;mateusmontenegro@gmail.com;Ativo
+38;Stella Rocha;1973-09-17;51;F;(11) 96491-2530;Avenida Viaduto Farias;Jardim Anália Franco;São Paulo;SP;stella.rocha@gmail.com;Ativo
+39;Heloísa Nunes;1987-06-09;37;F;(11) 92193-8461;Alameda Condomínio de Silveira;Vila Formosa;São Paulo;SP;heloísa394@uol.com.br;Ativo
+40;Henry Nunes;2002-02-10;22;M;(11) 92746-7965;Avenida Lagoa de Rios;Carrão;São Paulo;SP;henrynunes@ig.com.br;Inativo
+41;Luiz Otávio Machado;1976-01-20;48;M;(11) 98612-9702;Travessa Vila Ana Carolina Novaes;São Mateus;São Paulo;SP;luiz otávio914@bol.com.br;Ativo
+42;Eduarda Leão;1961-02-26;63;F;(11) 98777-8373;Travessa Viaduto Gabrielly Rocha;Itaquera;São Paulo;SP;eduarda785@terra.com.br;Ativo
+43;Vitória Guerra;1994-01-22;30;F;(11) 95681-4841;Travessa Vale Nunes;Mooca;São Paulo;SP;vitóriaguerra@bol.com.br;Ativo
+44;Josué Brito;1970-05-11;54;M;(11) 92052-7797;Alameda Aeroporto de da Rosa;Mooca;São Paulo;SP;josué64@gmail.com;Ativo
+45;Davi Miguel Mendes;1969-08-13;55;M;(11) 97232-8814;Rua Trecho Aurora Martins;Mooca;São Paulo;SP;davi miguel874@terra.com.br;Ativo
+46;Gustavo Henrique Aragão;1977-10-28;47;M;(11) 95471-8140;Alameda Favela de Moraes;Belém;São Paulo;SP;gustavo henrique696@terra.com.br;Ativo
+47;Manuela Barros;1979-06-27;45;F;(11) 99751-1441;Alameda Esplanada de Ribeiro;Vila Formosa;São Paulo;SP;manuela86@ig.com.br;Ativo
+48;Julia Ramos;1958-11-26;66;F;(11) 95262-7211;Travessa Viaduto de Porto;Itaquera;São Paulo;SP;jramos@hotmail.com;Ativo
+49;Maria Fernanda Siqueira;1987-03-25;37;F;(11) 98705-1317;Rua Feira Rocha;Mooca;São Paulo;SP;maria fernanda.siqueira@gmail.com;Ativo
+50;Otávio Siqueira;1970-11-11;54;M;(11) 93496-4908;Avenida Distrito Alves;São Mateus;São Paulo;SP;otávio971@gmail.com;Ativo
+51;Mirella Araújo;1956-11-09;68;F;(11) 92876-3683;Travessa Vale Diogo Marques;Brás;São Paulo;SP;mirella590@ig.com.br;Ativo
+52;Otávio Moura;1976-05-16;48;M;(11) 94978-2669;Travessa Travessa de Correia;Vila Formosa;São Paulo;SP;otávio.moura@terra.com.br;Ativo
+53;Isabela Viana;1992-06-24;32;F;(11) 92129-9289;Travessa Residencial Isabelly da Cruz;Belém;São Paulo;SP;isabela502@outlook.com;Inativo
+54;Olívia Lima;1962-03-25;62;F;(11) 98135-3885;Travessa Aeroporto de Sá;Vila Formosa;São Paulo;SP;olívia496@uol.com.br;Ativo
+55;Maria Cecília Albuquerque;2000-01-05;24;F;(11) 92419-5569;Alameda Praça Câmara;Itaquera;São Paulo;SP;maria cecília625@ig.com.br;Ativo
+56;Maria Cecília da Cruz;1963-09-24;61;F;(11) 98988-4475;Travessa Rua de Martins;Jardim Anália Franco;São Paulo;SP;maria cecília.da cruz@hotmail.com;Ativo
+57;Arthur Gabriel Nogueira;1957-01-26;67;M;(11) 97658-9004;Avenida Condomínio Marques;São Mateus;São Paulo;SP;arthur gabriel.nogueira@ig.com.br;Ativo
+58;João Vitor Nunes;1961-06-23;63;M;(11) 94986-6016;Travessa Viaduto Sofia Novais;São Mateus;São Paulo;SP;jnunes@hotmail.com;Ativo
+59;Ágatha Cunha;1985-12-19;39;F;(11) 95118-4777;Rua Vale Mirella Lima;Itaquera;São Paulo;SP;ágathacunha@outlook.com;Ativo
+60;Vitória Aparecida;1998-06-06;26;F;(11) 99595-5636;Rua Praia de Castro;Itaquera;São Paulo;SP;vitória.aparecida@hotmail.com;Ativo
+61;Luiz Henrique Rezende;1993-10-27;31;M;(11) 91893-5786;Avenida Praia Valentim Sá;São Mateus;São Paulo;SP;luiz henrique588@hotmail.com;Ativo
+62;Julia Ramos;1967-07-07;57;F;(11) 95136-8827;Rua Ladeira de Vargas;Brás;São Paulo;SP;julia.ramos@uol.com.br;Ativo
+63;Vitória Albuquerque;1995-08-17;29;F;(11) 92940-7818;Avenida Vereda Rhavi da Mota;Tatuapé;São Paulo;SP;vitória305@terra.com.br;Ativo
+64;Murilo Barros;1977-09-21;47;M;(11) 92625-4404;Avenida Lago de da Costa;Jardim Anália Franco;São Paulo;SP;murilo.barros@ig.com.br;Ativo
+65;Mariana Nunes;1968-10-22;56;F;(11) 98699-5771;Rua Setor Enrico Carvalho;Itaquera;São Paulo;SP;mariana720@terra.com.br;Ativo
+66;Mateus Cirino;1962-05-27;62;M;(11) 94241-7965;Rua Vila Leandro Santos;Tatuapé;São Paulo;SP;mateuscirino@ig.com.br;Ativo
+67;Raul Castro;1965-09-30;59;M;(11) 95728-8195;Rua Pátio Bianca Nogueira;São Mateus;São Paulo;SP;raul413@hotmail.com;Ativo
+68;Mateus Barros;1979-02-07;45;M;(11) 96280-5102;Rua Favela Leão;Brás;São Paulo;SP;mateus.barros@gmail.com;Inativo
+69;Heloísa Rezende;1975-01-19;49;F;(11) 93870-8708;Alameda Vila de Almeida;Jardim Anália Franco;São Paulo;SP;heloísa651@terra.com.br;Inativo
+70;Ana Laura Sampaio;1999-10-25;25;F;(11) 96460-6260;Rua Parque de Mendes;Carrão;São Paulo;SP;ana laura508@hotmail.com;Ativo
+71;Luiz Otávio Fernandes;1954-09-21;70;M;(11) 96153-5135;Travessa Lagoa Heloisa Leão;Brás;São Paulo;SP;luiz otávio.fernandes@terra.com.br;Ativo
+72;Carolina Ramos;1982-12-07;42;F;(11) 94073-9494;Travessa Setor de Pereira;Vila Formosa;São Paulo;SP;carolina.ramos@terra.com.br;Ativo
+73;Luiz Felipe Ribeiro;2001-12-28;23;M;(11) 98941-2989;Rua Fazenda Yago Lopes;Vila Formosa;São Paulo;SP;luiz felipe.ribeiro@terra.com.br;Ativo
+74;Eduardo Correia;1980-02-24;44;M;(11) 98560-2924;Avenida Loteamento Jade Silveira;São Mateus;São Paulo;SP;eduardo723@hotmail.com;Ativo
+75;Daniela Mendonça;1963-02-26;61;F;(11) 93369-7284;Avenida Conjunto Sophie Alves;Vila Formosa;São Paulo;SP;dmendonça@gmail.com;Ativo
+76;Isabella Pacheco;2002-06-23;22;F;(11) 95377-1042;Travessa Travessa de Ribeiro;Jardim Anália Franco;São Paulo;SP;isabellapacheco@bol.com.br;Ativo
+77;Ana Laura Cavalcante;1955-11-05;69;F;(11) 99903-7180;Alameda Praça de Carvalho;Mooca;São Paulo;SP;ana laura245@bol.com.br;Ativo
+78;Mariana Guerra;2000-05-08;24;F;(11) 98749-7246;Alameda Avenida da Luz;Carrão;São Paulo;SP;mguerra@gmail.com;Ativo
+79;Alexia Araújo;1974-07-02;50;F;(11) 98486-1251;Avenida Quadra Duarte;Penha;São Paulo;SP;aaraújo@gmail.com;Ativo
+80;Sophie Siqueira;1972-04-18;52;F;(11) 96383-9742;Alameda Ladeira Laura da Cunha;Mooca;São Paulo;SP;sophie.siqueira@ig.com.br;Ativo
+81;Benício Campos;1998-08-29;26;M;(11) 95708-4727;Rua Alameda Valentina Aragão;Penha;São Paulo;SP;benício.campos@outlook.com;Ativo
+82;Daniela Rezende;2007-05-28;17;F;(11) 96314-1919;Travessa Fazenda Davi Miguel Vasconcelos;Mooca;São Paulo;SP;daniela251@bol.com.br;Ativo
+83;Pietro Martins;2005-02-22;19;M;(11) 92293-7267;Avenida Alameda da Cruz;São Mateus;São Paulo;SP;pmartins@gmail.com;Ativo
+84;Enrico Jesus;1964-12-22;60;M;(11) 99955-3588;Rua Vale Cassiano;São Mateus;São Paulo;SP;ejesus@hotmail.com;Ativo
+85;Emanuelly Marques;1967-01-19;57;F;(11) 98916-2747;Avenida Viaduto Ian Nunes;Penha;São Paulo;SP;emarques@bol.com.br;Ativo
+86;Vitória Martins;2004-08-21;20;F;(11) 91803-9138;Travessa Vila Théo Vargas;Itaquera;São Paulo;SP;vitóriamartins@terra.com.br;Ativo
+87;Benício Caldeira;1973-12-17;51;M;(11) 91645-6061;Alameda Trevo de Souza;Belém;São Paulo;SP;bcaldeira@ig.com.br;Ativo
+88;Agatha Macedo;1992-06-24;32;F;(11) 93165-9837;Travessa Lagoa Caldeira;Tatuapé;São Paulo;SP;agatha169@hotmail.com;Inativo
+89;Aylla Garcia;1985-01-29;39;F;(11) 92886-8673;Rua Travessa Fernanda Gonçalves;Carrão;São Paulo;SP;aylla693@ig.com.br;Inativo
+90;Isis da Paz;2004-04-21;20;F;(11) 91228-5332;Rua Campo Pastor;São Mateus;São Paulo;SP;isis689@hotmail.com;Ativo
+91;Bruna Guerra;1991-01-04;33;F;(11) 94830-8724;Rua Feira de Caldeira;Vila Formosa;São Paulo;SP;bruna.guerra@bol.com.br;Ativo
+92;Caroline Mendes;1991-05-12;33;F;(11) 97689-2911;Avenida Viela Isaque Vieira;Belém;São Paulo;SP;carolinemendes@hotmail.com;Ativo
+93;Augusto Mendonça;2006-07-21;18;M;(11) 97078-9850;Alameda Morro Nascimento;Vila Formosa;São Paulo;SP;augusto.mendonça@ig.com.br;Ativo
+94;Vitória Rocha;1977-02-10;47;F;(11) 97070-4559;Alameda Campo Natália Ramos;São Mateus;São Paulo;SP;vrocha@hotmail.com;Ativo
+95;Maria Isis da Paz;1972-06-29;52;F;(11) 95520-4109;Rua Residencial Heitor Lopes;São Mateus;São Paulo;SP;maria isis.da paz@outlook.com;Ativo
+96;Daniela Nascimento;2005-04-30;19;F;(11) 94362-2124;Avenida Quadra de Santos;Vila Formosa;São Paulo;SP;danielanascimento@terra.com.br;Ativo
+97;Luiz Henrique Carvalho;1962-07-08;62;M;(11) 93129-9850;Travessa Rua Rezende;Carrão;São Paulo;SP;luiz henrique.carvalho@outlook.com;Ativo
+98;Ian Araújo;1968-09-21;56;M;(11) 91258-3854;Travessa Recanto de Martins;Belém;São Paulo;SP;ian.araújo@gmail.com;Ativo
+99;Stella Moura;1977-06-29;47;F;(11) 92786-8405;Avenida Trecho de da Mata;Vila Formosa;São Paulo;SP;smoura@terra.com.br;Ativo
+100;Yago da Rocha;1971-06-29;53;M;(11) 97580-7984;Rua Chácara da Mota;São Mateus;São Paulo;SP;yda rocha@outlook.com;Ativo
+101;Apollo Cavalcante;2001-02-18;23;M;(11) 99984-6327;Alameda Quadra Nunes;Vila Formosa;São Paulo;SP;apollo518@bol.com.br;Ativo
+102;Heitor Azevedo;1986-10-03;38;M;(11) 94522-8046;Alameda Loteamento Benjamin Monteiro;Itaquera;São Paulo;SP;heitor465@uol.com.br;Ativo
+103;Eloah Guerra;1999-07-05;25;F;(11) 95176-7132;Avenida Residencial Cunha;São Mateus;São Paulo;SP;eloah88@outlook.com;Ativo
+104;Manuela Aragão;1973-03-19;51;F;(11) 91982-6400;Rua Loteamento Alana Peixoto;Penha;São Paulo;SP;manuela964@terra.com.br;Ativo
+105;Luiz Felipe Castro;1991-07-28;33;M;(11) 96119-6761;Rua Sítio Antônio Moreira;Vila Formosa;São Paulo;SP;luiz felipecastro@gmail.com;Ativo
+106;Maitê Viana;2004-08-27;20;F;(11) 92882-5564;Avenida Feira Silveira;Penha;São Paulo;SP;maitê.viana@terra.com.br;Ativo
+107;Daniela da Cruz;1975-12-13;49;F;(11) 95477-6062;Travessa Feira de Sales;Mooca;São Paulo;SP;daniela147@bol.com.br;Ativo
+108;Arthur Leão;1979-08-23;45;M;(11) 99691-4524;Alameda Residencial de Machado;Penha;São Paulo;SP;aleão@gmail.com;Ativo
+109;Cauã Lima;1996-06-07;28;M;(11) 93579-1815;Rua Lago Câmara;Jardim Anália Franco;São Paulo;SP;cauã498@bol.com.br;Ativo
+110;Henry Sousa;1975-11-04;49;M;(11) 92864-6655;Alameda Lagoa Ribeiro;Brás;São Paulo;SP;hsousa@ig.com.br;Ativo
+111;Ana Sophia Brito;1985-03-25;39;F;(11) 91125-4349;Travessa Sítio Sofia Ferreira;Itaquera;São Paulo;SP;abrito@terra.com.br;Ativo
+112;Aylla Novais;1976-12-16;48;F;(11) 93878-3116;Alameda Sítio de Farias;Tatuapé;São Paulo;SP;anovais@bol.com.br;Ativo
+113;Mateus Siqueira;1973-01-20;51;M;(11) 98532-2275;Travessa Ladeira Ana Laura da Cunha;Vila Formosa;São Paulo;SP;mateus727@ig.com.br;Ativo
+114;Brenda Araújo;1966-08-17;58;F;(11) 93815-8538;Travessa Estrada de Dias;Brás;São Paulo;SP;brenda250@uol.com.br;Ativo
+115;Allana Leão;1960-09-29;64;F;(11) 96562-4630;Travessa Vila de Cirino;Carrão;São Paulo;SP;allanaleão@bol.com.br;Inativo
+116;Ana Laura Pinto;1964-07-23;60;F;(11) 93419-4871;Rua Recanto de da Mota;Carrão;São Paulo;SP;ana laura.pinto@hotmail.com;Ativo
+117;Ágatha Ribeiro;1992-10-23;32;F;(11) 98354-6295;Travessa Trevo de da Paz;Carrão;São Paulo;SP;áribeiro@uol.com.br;Ativo
+118;Juan Pacheco;2006-05-17;18;M;(11) 92215-6085;Alameda Lago da Conceição;São Mateus;São Paulo;SP;juan.pacheco@outlook.com;Ativo
+119;Murilo Castro;1973-07-14;51;M;(11) 99307-7299;Alameda Aeroporto Sophie Cardoso;Vila Formosa;São Paulo;SP;murilo918@outlook.com;Inativo
+120;Davi Araújo;1968-12-12;56;M;(11) 98792-9214;Avenida Sítio da Rocha;Belém;São Paulo;SP;daraújo@terra.com.br;Inativo
+121;Brayan Peixoto;1991-05-16;33;M;(11) 93827-1641;Avenida Vereda Sá;São Mateus;São Paulo;SP;bpeixoto@bol.com.br;Ativo
+122;Ana Lívia Sampaio;1980-06-04;44;F;(11) 96543-1857;Travessa Travessa da Paz;Brás;São Paulo;SP;asampaio@bol.com.br;Ativo
+123;Marcos Vinicius Siqueira;1979-04-15;45;M;(11) 93317-6731;Travessa Loteamento Léo Aragão;Penha;São Paulo;SP;msiqueira@ig.com.br;Ativo
+124;Manuela da Costa;1967-10-16;57;F;(11) 99624-2531;Alameda Condomínio Davi Lucca Guerra;Tatuapé;São Paulo;SP;manuelada costa@outlook.com;Ativo
+125;Sarah Aragão;1980-06-21;44;F;(11) 93253-3538;Rua Vereda de Rodrigues;Jardim Anália Franco;São Paulo;SP;sarah.aragão@terra.com.br;Ativo
+126;Arthur Gabriel Viana;1957-04-01;67;M;(11) 93527-3658;Avenida Travessa da Rosa;Vila Formosa;São Paulo;SP;arthur gabriel449@outlook.com;Ativo
+127;João Lucas Moraes;1958-12-03;66;M;(11) 95668-8355;Avenida Condomínio Novais;Tatuapé;São Paulo;SP;joão lucasmoraes@hotmail.com;Ativo
+128;Ágatha Nunes;1994-12-04;30;F;(11) 95616-7256;Alameda Trevo de Vieira;Carrão;São Paulo;SP;ánunes@terra.com.br;Ativo
+129;Antonella Araújo;1987-03-09;37;F;(11) 92680-9452;Rua Parque de Machado;Jardim Anália Franco;São Paulo;SP;antonellaaraújo@terra.com.br;Ativo
+130;Eduardo Silva;2002-07-23;22;M;(11) 96727-1436;Alameda Trecho Liz das Neves;Belém;São Paulo;SP;eduardo.silva@uol.com.br;Ativo
+131;Vitor Gabriel Caldeira;1984-07-18;40;M;(11) 96493-3392;Avenida Vale Sousa;Belém;São Paulo;SP;vitor gabrielcaldeira@terra.com.br;Ativo
+132;Mariana Moraes;1959-09-01;65;F;(11) 91086-2298;Rua Vereda Cunha;Jardim Anália Franco;São Paulo;SP;mariana562@ig.com.br;Ativo
+133;Fernanda Mendes;1968-06-08;56;F;(11) 92996-1782;Avenida Esplanada da Costa;Penha;São Paulo;SP;fernanda.mendes@ig.com.br;Ativo
+134;Ana Sophia Souza;1963-08-15;61;F;(11) 91269-9443;Avenida Esplanada Abreu;Carrão;São Paulo;SP;ana sophiasouza@uol.com.br;Ativo
+135;Miguel da Costa;1976-01-23;48;M;(11) 92402-9576;Travessa Trevo de Melo;Brás;São Paulo;SP;miguel.da costa@bol.com.br;Ativo
+136;Mariana Azevedo;1969-11-05;55;F;(11) 97338-7116;Travessa Lago Santos;Belém;São Paulo;SP;mariana.azevedo@hotmail.com;Ativo
+137;Brenda Rezende;1969-05-23;55;F;(11) 96772-9945;Travessa Campo Ravi Lucca da Luz;Carrão;São Paulo;SP;brenda476@ig.com.br;Ativo
+138;Caio Peixoto;1996-02-29;28;M;(11) 98498-1605;Travessa Trecho de Ribeiro;Itaquera;São Paulo;SP;cpeixoto@gmail.com;Inativo
+139;Heloisa Correia;1997-01-06;27;F;(11) 95150-1599;Avenida Praça Camargo;Jardim Anália Franco;São Paulo;SP;hcorreia@terra.com.br;Ativo
+140;Julia Lima;1983-04-09;41;F;(11) 98204-7334;Travessa Distrito de da Mata;Carrão;São Paulo;SP;jlima@uol.com.br;Ativo
+141;Vitória Novais;1998-03-21;26;F;(11) 93956-9937;Travessa Avenida Cavalcante;Mooca;São Paulo;SP;vnovais@hotmail.com;Ativo
+142;Mirella Nunes;1996-06-01;28;F;(11) 98272-6759;Alameda Travessa de da Paz;Belém;São Paulo;SP;mnunes@hotmail.com;Ativo
+143;Otávio da Costa;1977-09-07;47;M;(11) 97655-6952;Avenida Vila Ana Júlia Sampaio;Belém;São Paulo;SP;otávio695@terra.com.br;Ativo
+144;Lucca Moreira;1975-09-28;49;M;(11) 97001-6933;Alameda Rodovia Valentina Monteiro;Vila Formosa;São Paulo;SP;lmoreira@gmail.com;Ativo
+145;Luan Machado;1977-08-11;47;M;(11) 99674-7012;Alameda Area de Lopes;Mooca;São Paulo;SP;luan.machado@ig.com.br;Ativo
+146;Milena Marques;1993-05-04;31;F;(11) 92929-5288;Travessa Jardim de Alves;São Mateus;São Paulo;SP;milenamarques@bol.com.br;Ativo
+147;Rafael Martins;1959-04-01;65;M;(11) 98292-2438;Travessa Travessa de Pastor;Mooca;São Paulo;SP;rmartins@bol.com.br;Ativo
+148;Luiz Miguel Sousa;2004-10-19;20;M;(11) 94673-2988;Avenida Ladeira de Oliveira;Carrão;São Paulo;SP;lsousa@uol.com.br;Ativo
+149;Murilo Fernandes;1956-07-16;68;M;(11) 92077-6067;Alameda Recanto Moreira;São Mateus;São Paulo;SP;murilo.fernandes@bol.com.br;Ativo
+150;Ana Sophia Guerra;1988-12-08;36;F;(11) 98372-8632;Travessa Estação Luiza Porto;Carrão;São Paulo;SP;ana sophiaguerra@terra.com.br;Ativo
