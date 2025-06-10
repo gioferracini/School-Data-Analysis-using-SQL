@@ -10,7 +10,7 @@ All data are fictitious and intended for portfolio and learning purposes only.
 * SQL (CTEs, joins, aggregations, ranking functions)
 * Data modeling & healthcare KPIs
 * Analytical thinking and storytelling
-* Realistic database simulation with Brazilian health plan structure
+* Realistic database simulation with brazilian school organization
 
 ---
 
